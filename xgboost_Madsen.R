@@ -4,7 +4,7 @@
 #In this project I establish optimal hyperparameters for the 'xgboost' machine learning algorithm. 
 #The model was subsequently applied to the Bergen Growth Study 2 [vekststudien.no] female dataset,
 #where outcome variable is puberty stage & dependent variables is anabolic/developmental hormone profile
-#
+#SUPERVISED MACHINE LEARNING
 #=======================================================================================
 
 install.packages(c("e1071", "caret", "doSNOW", "ipred", "xgboost"))
